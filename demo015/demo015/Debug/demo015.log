@@ -1,0 +1,4 @@
+﻿  demo015.cpp
+d:\www\c++demo\demo015\demo015\demo015.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\www\c++demo\demo015\demo015\coordinate.h(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  demo015.vcxproj -> D:\www\c++demo\demo015\Debug\demo015.exe

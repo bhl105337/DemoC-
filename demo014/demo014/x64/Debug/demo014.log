@@ -1,0 +1,5 @@
+﻿  Array.cpp
+  demo014.cpp
+d:\www\c++demo\demo014\demo014\demo014.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  demo014.vcxproj -> D:\www\c++demo\demo014\x64\Debug\demo014.exe
