@@ -1,0 +1,14 @@
+﻿  Person.cpp
+d:\www\c++demo\demo022\demo022\person.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\www\c++demo\demo022\demo022\person.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Worker.cpp
+d:\www\c++demo\demo022\demo022\person.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\www\c++demo\demo022\demo022\worker.cpp(18): error C2248: “Person::m_sName”: 无法访问 private 成员(在“Person”类中声明)
+  d:\www\c++demo\demo022\demo022\person.h(25): note: 参见“Person::m_sName”的声明
+  d:\www\c++demo\demo022\demo022\person.h(6): note: 参见“Person”的声明
+d:\www\c++demo\demo022\demo022\worker.cpp(19): error C2248: “Person::m_iAge”: 无法访问 private 成员(在“Person”类中声明)
+  d:\www\c++demo\demo022\demo022\person.h(26): note: 参见“Person::m_iAge”的声明
+  d:\www\c++demo\demo022\demo022\person.h(6): note: 参见“Person”的声明
+  demo022.cpp
+d:\www\c++demo\demo022\demo022\person.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...

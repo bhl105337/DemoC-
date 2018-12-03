@@ -9,10 +9,8 @@ class Whorker : public Person
 {
 public:
 	Whorker();
-
 	~Whorker();
 
 	void work();
-
 	int m_iSalary;
 };
