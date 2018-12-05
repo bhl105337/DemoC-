@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  demo024.cpp
-demo024.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl Soldier::Soldier(void)" (??0Soldier@@QEAA@XZ)
-demo024.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl Soldier::~Soldier(void)" (??1Soldier@@QEAA@XZ)
-demo024.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl Soldier::play(void)" (?play@Soldier@@QEAAXXZ)
-demo024.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl Soldier::work(void)" (?work@Soldier@@QEAAXXZ)
-D:\www\c++demo\demo024\x64\Release\demo024.exe : fatal error LNK1120: 4 个无法解析的外部命令
